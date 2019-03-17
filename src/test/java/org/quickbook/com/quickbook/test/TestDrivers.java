@@ -31,7 +31,7 @@ public class TestDrivers {
 		return code;
 	}
 
-//	@Test
+	@Test
 	public void testFirefox() {
 //		System.setProperty("webdriver.firefox.bin", "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe");
 		System.setProperty("webdriver.chrome.driver", "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
