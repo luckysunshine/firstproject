@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41" started-at="2019-03-17T01:07:52Z" finished-at="2019-03-17T01:07:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41" started-at="2019-03-17T01:07:52Z" finished-at="2019-03-17T01:07:53Z">
+      <class name="org.quickbook.com.quickbook.test.TestDrivers">
+        <test-method status="PASS" signature="verifyUserAgents(java.lang.String, int)[pri:0, instance:org.quickbook.com.quickbook.test.TestDrivers@26653222]" name="verifyUserAgents" duration-ms="10" started-at="2019-03-16T20:07:52Z" data-provider="user-agents" finished-at="2019-03-16T20:07:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MSIE]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserAgents -->
+        <test-method status="PASS" signature="verifyUserAgents(java.lang.String, int)[pri:0, instance:org.quickbook.com.quickbook.test.TestDrivers@26653222]" name="verifyUserAgents" duration-ms="0" started-at="2019-03-16T20:07:53Z" data-provider="user-agents" finished-at="2019-03-16T20:07:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WAP]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserAgents -->
+        <test-method status="PASS" signature="verifyUserAgents(java.lang.String, int)[pri:0, instance:org.quickbook.com.quickbook.test.TestDrivers@26653222]" name="verifyUserAgents" duration-ms="0" started-at="2019-03-16T20:07:53Z" data-provider="user-agents" finished-at="2019-03-16T20:07:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FireFox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserAgents -->
+        <test-method status="PASS" signature="verifyUserAgents(java.lang.String, int)[pri:0, instance:org.quickbook.com.quickbook.test.TestDrivers@26653222]" name="verifyUserAgents" duration-ms="0" started-at="2019-03-16T20:07:53Z" data-provider="user-agents" finished-at="2019-03-16T20:07:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Safari]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[301]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserAgents -->
+      </class> <!-- org.quickbook.com.quickbook.test.TestDrivers -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
